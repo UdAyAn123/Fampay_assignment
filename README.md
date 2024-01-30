@@ -13,7 +13,7 @@ The project uses Django Cron Jobs (`django_cron`) to fetch videos every 10 minut
    ```bash
    git clone https://github.com/yourusername/youtube_fetch_api.git
    
-2.**Python Setup:**
+2. **Python Setup:**
   Ensure that your system has the required Python setup.
   
 3. **Setup Crontab:**
